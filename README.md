@@ -1,7 +1,7 @@
 # AIFFEL_quest_cr
 레포지토리 구조도
 
-
+```bash
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
@@ -82,3 +82,4 @@ AIFFEL_quest_cr
     └── Quest07
         ├── .ipynb
         └── README.md
+```
