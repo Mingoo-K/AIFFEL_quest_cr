@@ -23,7 +23,7 @@ class FirstPage extends StatefulWidget {
 }
 
 class _FirstPageState extends State<FirstPage> {
-  bool isCat = false;
+  bool isCat = true;
 
   void _navigateToSecondPage() async {
     final result = await Navigator.push(
