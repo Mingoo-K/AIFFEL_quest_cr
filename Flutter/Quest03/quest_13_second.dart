@@ -8,11 +8,11 @@ class SecondPage extends StatelessWidget {
   SecondPage({required this.isCat});
 
   void _printDogState() {
-    print("Current is_cat state: $isCat");
+    print("Current is_cat state: false");
   }
 
   void _goBack(BuildContext context) {
-    Navigator.pop(context, true); // true로 설정하여 is_cat을 true로 변환
+    Navigator.pop(context, false); // true로 설정하여 is_cat을 false로 변환
   }
 
   @override
