@@ -30,7 +30,11 @@
 
 
 
-## 프로토타이핑 (사용 툴 : Marvel)
+
+
+## 회고
+ - 힘들게 쫓아 가느라 점심시간도 사용하여 작업하였다
+ - 시간이 부족해 맘에 드는 완성본은 만들지 못해 아쉬웠다
 
 ![prototyping](https://github.com/user-attachments/assets/daf82227-b6a6-4517-92fe-9e957c6704b8)
 
