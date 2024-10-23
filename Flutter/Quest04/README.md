@@ -38,13 +38,10 @@
 
 
 ## 페이지 구현
-1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.
-2. loading.dart - 로딩페이지
-3. mypage.dart - 나의페이지
-4. my_location.dart - 위치정보를 포함한 런닝 기록
-5. run_test.dart - 런냥이 테스트 페이지
+1. quest04_onbaord.dart - 온보드 화면입니다.
+2. quest04_profile.dart - 프로필 선택화면입니다
+3. quest04_main.dart - 메인 페이지 입니다.
 
 
 
 ## 구현영상 
-https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
