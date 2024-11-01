@@ -86,7 +86,7 @@ class _ImageEntranceAnimationState extends State<ImageEntranceAnimation>
         _showText = true;
       });
 
-      // 2초 후에 'main.dart'에 정의된 화면으로 이동
+      // 4초 후에 'main.dart'에 정의된 화면으로 이동
       Future.delayed(const Duration(seconds: 4), () {
         Navigator.pushReplacement(
           context,
